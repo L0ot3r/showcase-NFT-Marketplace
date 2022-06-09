@@ -12,7 +12,7 @@ const Download = () => {
           <p className={`${styles.pText} ${styles.blackText}`}>Get the ful Source Code on GitHub</p>
         </div>
         <button 
-          onClick={() => window.open('https://github.com/L0ot3r/RNA-lost-ark', '_blank')} className={styles.btnPrimary}>
+          onClick={() => window.open('https://github.com/L0ot3r/NFT-Marketplace-RNA', '_blank')} className={styles.btnPrimary}>
             Source Code
         </button>
         <div className={styles.flexCenter}>
